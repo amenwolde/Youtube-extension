@@ -1,0 +1,15 @@
+ts,app,q,source,top_dist,retrieve_ms,gen_ms,answer_chars,total_ms
+1760609926.1012564,YouTube,Hello,llm,,497.03,5780.07,419,6277.11
+1760609949.9720948,YouTube,How do i create a youtube account,llm,,34.06,254.26,34,288.33
+1760609957.5677924,YouTube,How do i like a video,llm,,25.95,177.88,14,203.83
+1760609961.7386816,YouTube,what,llm,,21.76,348.89,49,370.65
+1760609979.3072603,YouTube,how to change youtube account,llm,,19.71,173.84,29,193.55
+1760610579.8334153,YouTube,Hello,llm,,131.1,4041.23,419,4172.34
+1760610590.6604986,YouTube,How do i create youtube account,llm,,23.65,265.93,32,289.58
+1760610602.6222816,YouTube,how do i like this video,llm,,31.59,205.44,17,237.03
+1760610826.187972,YouTube,How do i find my watch history,llm,,81.26,361.99,38,443.26
+1760610836.543926,YouTube,How do i change captions,llm,,307.18,636.49,25,943.68
+1760611151.1149383,YouTube,HOw do i sign out of youtube,llm,,30.63,308.52,28,339.16
+1760613272.9720733,YouTube,how do i like a video,llm,,99.86,319.69,21,419.56
+1760613281.978638,YouTube,how do i like the video,llm,,21.67,214.03,23,235.73
+1760613623.7895582,YouTube,how do i like a video,llm,,84.59,307.48,21,392.07

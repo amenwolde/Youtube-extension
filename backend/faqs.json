@@ -1,0 +1,35 @@
+{
+  "faqs": [
+    {"app": "YouTube", "question": "How do I switch accounts on YouTube?", "answer": "Tap your profile → Switch account → Choose another account."},
+    {"app": "YouTube", "question": "How do I sign out of YouTube?", "answer": "Tap your profile → Manage accounts on this device → Remove from this device."},
+    {"app": "YouTube", "question": "How do I turn on captions?", "answer": "Tap Settings (⚙️) → Captions → Choose language."},
+    {"app": "YouTube", "question": "How do I change caption language?", "answer": "Tap Settings (⚙️) → Captions → Language → pick a language."},
+    {"app": "YouTube", "question": "How do I change playback speed?", "answer": "Tap Settings (⚙️) → Playback speed → choose a speed."},
+    {"app": "YouTube", "question": "How do I change video quality?", "answer": "Tap Settings (⚙️) → Quality → choose Auto or a resolution."},
+    {"app": "YouTube", "question": "How do I enable dark theme?", "answer": "Tap your profile → Settings → Appearance → Dark theme."},
+    {"app": "YouTube", "question": "How do I turn on restricted mode?", "answer": "Tap your profile → Settings → General → Restricted Mode → On."},
+    {"app": "YouTube", "question": "How do I find my watch history?", "answer": "Tap Library → History to see your recent videos."},
+    {"app": "YouTube", "question": "How do I clear my watch history?", "answer": "Tap Library → History → ⋮ → Clear all watch history."},
+    {"app": "YouTube", "question": "How do I pause watch history?", "answer": "Tap Library → History → ⋮ → Pause watch history."},
+    {"app": "YouTube", "question": "How do I like a video?", "answer": "Open the video → tap 👍 Like below the player."},
+    {"app": "YouTube", "question": "How do I dislike a video?", "answer": "Open the video → tap 👎 Dislike below the player."},
+    {"app": "YouTube", "question": "How do I subscribe to a channel?", "answer": "Open a video or channel page → tap Subscribe."},
+    {"app": "YouTube", "question": "How do I turn on notifications for a channel?", "answer": "On the channel page → tap the bell 🔔 → choose All."},
+    {"app": "YouTube", "question": "How do I add a video to Watch Later?", "answer": "Under a video → tap Save → choose Watch Later."},
+    {"app": "YouTube", "question": "How do I create a playlist?", "answer": "Tap Library → New playlist → select videos → name it → Create."},
+    {"app": "YouTube", "question": "How do I add a video to a playlist?", "answer": "Under the video → tap Save → select a playlist."},
+    {"app": "YouTube", "question": "How do I remove a video from a playlist?", "answer": "Open the playlist → tap ⋮ on a video → Remove from playlist."},
+    {"app": "YouTube", "question": "How do I share a video?", "answer": "Under the video → tap Share → choose an app or copy link."},
+    {"app": "YouTube", "question": "How do I download videos for offline viewing?", "answer": "If available in your region/plan: tap Download under the video → choose quality."},
+    {"app": "YouTube", "question": "How do I change download quality?", "answer": "Library → Downloads → ⋮ → Download settings → choose quality."},
+    {"app": "YouTube", "question": "How do I turn on autoplay?", "answer": "On the video page → toggle Autoplay switch next to Up next."},
+    {"app": "YouTube", "question": "How do I report a video?", "answer": "Below the video → tap ⋮ → Report → choose a reason → Submit."},
+    {"app": "YouTube", "question": "How do I block or hide a channel?", "answer": "On the channel page → tap ⋮ → Don’t recommend channel (or Block on mobile Kids settings)."},
+    {"app": "YouTube", "question": "How do I change comment visibility or sort order?", "answer": "Open comments → tap Sort by → choose Top or Newest."},
+    {"app": "YouTube", "question": "How do I turn on ambient mode?", "answer": "During playback → tap Settings (⚙️) or player options → Ambient mode → On."},
+    {"app": "YouTube", "question": "How do I cast YouTube to my TV?", "answer": "Tap the Cast icon ☐◀ on the top → choose your TV device."},
+    {"app": "YouTube", "question": "How do I change region or content location?", "answer": "Tap your profile → Settings → General → Location → pick a country."},
+    {"app": "YouTube", "question": "How do I manage YouTube Premium membership?", "answer": "Tap your profile → Purchases and memberships → Manage."}
+  ]
+}
+
